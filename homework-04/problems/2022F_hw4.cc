@@ -81,4 +81,6 @@ int main() {
 	cout << c.contains(x,y+10) << '\n';
 	double dx = r * cos(45 * pi / 180);
 	cout << c.contains(x+dx, y+dx) << '\n';
+
+	return 0;
 }

@@ -95,4 +95,6 @@ int main() {
 	uint64_t a[] = {1, 3, 5, 9};
 	cubeit(a, 4); // 1*1*1   3*3*3   5*5*5   9*9*9
 	print(a,4);
+
+	return 0;
 }

@@ -14,4 +14,6 @@ int main() {
   	for (uint64_t i = 1; i <= 100000000; i++)
   		sum += i;
 	return sum;
+
+	return 0;
 }
